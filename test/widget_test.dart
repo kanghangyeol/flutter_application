@@ -12,6 +12,7 @@ import 'package:flutter_easy_text/main.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
+    //asdfsf
     // Build our app and trigger a frame.
     await tester.pumpWidget(const MyApp());
 
